@@ -1,0 +1,3 @@
+# Project exclude paths
+/business-interface/target/
+/business-provider/target/
